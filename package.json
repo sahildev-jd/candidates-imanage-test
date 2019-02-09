@@ -21,5 +21,13 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "ag-grid-community": "^20.0.0",
+    "ag-grid-react": "^20.0.0",
+    "axios": "^0.18.0",
+    "jest": "^24.1.0",
+    "lodash": "^4.17.11",
+    "react-virtualized": "^9.21.0"
+  }
 }
